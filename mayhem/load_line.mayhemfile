@@ -1,0 +1,6 @@
+project: symspell
+target: load_line
+duration: 300
+
+cmds:
+  - cmd: /load_line
